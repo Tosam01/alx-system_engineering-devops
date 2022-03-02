@@ -1,1 +1,1 @@
-system engineer
+I am now on shell basics
